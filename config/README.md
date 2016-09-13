@@ -1,0 +1,1 @@
+app_type: { "brain_xrw", "brain_nii", "astro_fits" } 

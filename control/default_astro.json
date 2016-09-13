@@ -1,0 +1,124 @@
+{
+  "url": "meanbrain.png",
+  "res": [
+    256,
+    256,
+    256
+  ],
+  "scale": [
+    1,
+    1,
+    1
+  ],
+  "colourmaps": [
+    {
+      "colours": [
+        {
+          "position": 0,
+          "colour": "rgba(0,0,0,0.00)"
+        },
+        {
+          "position": 0.023438,
+          "colour": "rgba(60,60,60,1.00)"
+        },
+        {
+          "position": 0.046875,
+          "colour": "rgba(18,15,0,1.00)"
+        },
+        {
+          "position": 0.066641,
+          "colour": "rgba(248,144,87,0.38)"
+        },
+        {
+          "position": 0.103047,
+          "colour": "rgba(252,224,166,1.00)"
+        },
+        {
+          "position": 0.146016,
+          "colour": "rgba(255,81,0,1.00)"
+        },
+        {
+          "position": 0.200703,
+          "colour": "rgba(72,0,20,1.00)"
+        },
+        {
+          "position": 0.236084,
+          "colour": "rgba(246,245,122,1.00)"
+        },
+        {
+          "position": 0.310078,
+          "colour": "rgba(255,0,0,1.00)"
+        },
+        {
+          "position": 0.355,
+          "colour": "rgba(255,255,255,0.00)"
+        },
+        {
+          "position": 0.894062,
+          "colour": "rgba(255,255,255,0.00)"
+        },
+        {
+          "position": 1,
+          "colour": "rgba(255,255,255,1.00)"
+        }
+      ]
+    }
+  ],
+  "volume": {
+    "rotate": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "translate": [
+      0,
+      0,
+      -3
+    ],
+    "properties": {
+      "samples": 64,
+      "isovalue": 0,
+      "drawWalls": false,
+      "isoalpha": 0.3,
+      "isosmooth": 0.5,
+      "isocolour": [
+        226,
+        196,
+        168
+      ],
+      "Xmin": 1.0,
+      "Ymin": 1.0,
+      "Zmin": 1.0,
+      "Xmax": 0.0,
+      "Ymax": 0.0,
+      "Zmax": 0.0,
+      "density": 15,
+      "brightness": 0,
+      "contrast": 1,
+      "power": 5.0,
+      "min": 0.0,
+      "max": 1.0,
+      "usecolourmap": false,
+      "tricubicFilter": false,
+      "lowPowerDevice": true,
+      "disabled": false,
+      "axes": true,
+      "border": true
+    }
+  },
+  "slicer": {
+    "properties": {
+      "show": false,
+      "X": 120,
+      "Y": 111,
+      "Z": 129,
+      "brightness": 0,
+      "contrast": 1,
+      "power": 0.6,
+      "usecolourmap": false,
+      "layout": "_Xyz",
+      "zoom": 0.8
+    }
+  }
+}

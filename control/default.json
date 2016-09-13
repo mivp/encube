@@ -1,0 +1,70 @@
+{
+  "url": "meanbrain.png",
+  "res": [
+    256,
+    256,
+    256
+  ],
+  "scale": [
+    1,
+    1,
+    1
+  ],
+  "volume": {
+    "rotate": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "translate": [
+      0,
+      0,
+      -3
+    ],
+    "properties": {
+      "samples": 64,
+      "isovalue": 0,
+      "drawWalls": false,
+      "isoalpha": 0.3,
+      "isosmooth": 0.5,
+      "isocolour": [
+        226,
+        196,
+        168
+      ],
+      "Xmin": 0.211765,
+      "Ymin": 0.125490,
+      "Zmin": 0.141176,
+      "Xmax": 0.796078,
+      "Ymax": 0.874510,
+      "Zmax": 0.780392,
+      "density": 20,
+      "brightness": 0,
+      "contrast": 1,
+      "power": 1.0,
+      "min": 0.0,
+      "max": 1.0,
+      "usecolourmap": false,
+      "tricubicFilter": false,
+      "lowPowerDevice": true,
+      "disabled": false,
+      "axes": false,
+      "border": false
+    }
+  },
+  "slicer": {
+    "properties": {
+      "show": false,
+      "X": 120,
+      "Y": 111,
+      "Z": 129,
+      "brightness": 0,
+      "contrast": 1,
+      "power": 0.6,
+      "usecolourmap": false,
+      "layout": "_Xyz",
+      "zoom": 0.8
+    }
+  }
+}
