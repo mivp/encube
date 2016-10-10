@@ -55,8 +55,9 @@ provide the following acknowledgement:
 and a reference to
 
 Dany Vohl, David G. Barnes, Christopher J. Fluke, Govinda Poudel, Nellie Georgiou-Karistianis,
-Amr H. Hassan, Yuri Benovitski, Tsz Ho Wong, Owen L Kaluza, Toan D. Nguyen, C. Paul Bonnington. (2016) Large-scale comparative visualisation of sets of multidimensional data. PeerJ Computer Science 
-2:e88 https://doi.org/10.7717/peerj-cs.88
+Amr H. Hassan, Yuri Benovitski, Tsz Ho Wong, Owen L Kaluza, Toan D. Nguyen, C. Paul Bonnington. (2016) Large-scale 
+comparative visualisation of sets of multidimensional data. *PeerJ Computer Science* 2:e88 
+https://doi.org/10.7717/peerj-cs.88
 
 Acknowlegements:
 ----------------
